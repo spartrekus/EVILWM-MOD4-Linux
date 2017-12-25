@@ -1,0 +1,10 @@
+
+Mouse 1 + Win/alt : move win
+Mouse 3 + Win/alt : resize win
+
+
+Win + x : start an XTERM 
+Win + w : kill/close the current xwin
+Win + 1,2,... : switch to another virtual desktop
+
+
